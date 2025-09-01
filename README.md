@@ -3,3 +3,6 @@ this is my first project in gihub
 
 this is my second commit in github.
 
+
+hii this is my third commit on vs code
+
